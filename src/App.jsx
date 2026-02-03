@@ -29,6 +29,7 @@ function App() {
         Click on the Vite and React logos to learn more
       </p> */}
       <h1>welcome gitup testing</h1>
+      <button>login</button>
     </>
   )
 }
